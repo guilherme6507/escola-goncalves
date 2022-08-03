@@ -1,0 +1,26 @@
+ body{
+	background-image: url(../img/amarelo.jpg);
+}
+h1 {
+	color: yellow;
+	background-color: #EE0000;
+}
+h2 {
+	color: black;
+}
+
+p {
+	color: black;
+	background-color: #EE0000;
+}
+ 
+ ul{
+   border-color: red; 
+   border-style: solid;
+   border width: 2px;
+}
+
+   footer{
+   	   padding: 30px;
+   	   text-align: center;
+}
